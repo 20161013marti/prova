@@ -3,3 +3,9 @@ Intento fer una modificació
 Prova desesperada
 Prova no tan desesperada
 Prova de confirmació
+
+INSTRUCCIONS - En l'ordre necessari
+
+git commit -m "canvis realitzats" -a
+git pull
+git push
